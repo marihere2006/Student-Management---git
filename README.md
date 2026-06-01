@@ -1,1 +1,1 @@
-(README-Preview.png)
+![Student Management System](README-Preview.png)
